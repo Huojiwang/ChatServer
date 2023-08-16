@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/ChatServer.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/ChatServer.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/ChatService.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/ChatService.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/main.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/main.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/main.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/db/mysqldb.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/db/mysqldb.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/db/mysqldb.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/model/friendmodel.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/model/friendmodel.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/model/groupmodel.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/model/groupmodel.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/model/offlinemessagemodel.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/server/CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/server/model/usermodel.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/server/model/usermodel.cpp"
+},
+
+{
+  "directory": "/home/hjw/program/chat_muduo/muduo_server/build",
+  "command": "/usr/bin/g++   -I../include -I../include/server -I../include/server/model -I../include/server/db -I../thirdparty  -g -g   -o src/client/CMakeFiles/ChatClient.dir/main.cpp.o -c /home/hjw/program/chat_muduo/muduo_server/src/client/main.cpp",
+  "file": "/home/hjw/program/chat_muduo/muduo_server/src/client/main.cpp"
+}
+]
